@@ -1,4 +1,6 @@
 # Simple-SpaceShooter-on-AGK-BASIC-
+THIS IS WAS MY FIRST GAME
+Video: https://youtu.be/QiJpsn5Ivu0
 Very simple core mechanics of spaceshooter game, that created on AppGameKit, used BASIC
 
 So, this is my first game. It was created on AppGameKit, using BASIC language.
